@@ -2,20 +2,6 @@
 
 
 
-<br>
-
-### 参考資料  
-
-[Haskell](https://github.com/kxkx5150/Start-Haskell)  
-
-[free-programming-books](https://github.com/kxkx5150/free-programming-books)  
-
-[OS自作資料](https://github.com/kxkx5150/Development/tree/main/OS)  
-
-[エミュレータ自作資料](https://github.com/kxkx5150/Development/tree/main/Emulator)  
-
-[自作テキストエディタ](https://github.com/kxkx5150/Build-your-own-text-editor)  
-
 <!--
 **kxkx5150/kxkx5150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
